@@ -19,7 +19,7 @@ for x in data['meta'].values():
 #iterate through dict items in the 'meta' tag
 for x in data['meta'].items():
   print(x)
-#iterate through dict items in the 'meta' tag
+#iterate through dict keys in the 'meta' tag
 for x in data['meta'].keys():
   print(x)
 print("")
