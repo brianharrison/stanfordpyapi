@@ -1,4 +1,4 @@
-#Stanford Computational Journalism API Exercise 1 - Source: Facebook Graph API endpoint
+#Stanford Computational Journalism API Exercise 2 - Source: Facebook Graph API endpoint
 #written by Brian Harrison - April 19, 2018 - Python 3.6
 
 import requests
