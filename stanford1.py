@@ -1,3 +1,6 @@
+#Stanford Computational Journalism API Exercise 1 - Source: USA.GOV API endpoint
+#written by Brian Harrison - April 19, 2018 - Python 3.6
+
 import requests
 import json
 
