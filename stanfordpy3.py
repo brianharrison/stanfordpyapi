@@ -1,3 +1,6 @@
+#Stanford Computational Journalism API Exercise 3 - Source: Google Maps Geocoder API endpoint
+#written by Brian Harrison - April 26, 2018 - Python 3.6
+
 import requests
 import json
 
